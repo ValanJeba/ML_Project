@@ -1,4 +1,4 @@
-# Weather Forecasting Using Machine Learning
+# Atmospheric Data Scientist – Predictive Analytics & Weather Trend Modeling
 
 A machine learning project to predict weather conditions such as temperature, humidity, wind speed, and precipitation using historical meteorological data. Implemented with Python and popular ML libraries.
 
