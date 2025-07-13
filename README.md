@@ -33,3 +33,9 @@ This repository contains code and resources for building, training, and evaluati
 - Matplotlib, Seaborn  
 
 ---
+
+## Contact
+
+**Created by:** Micheal Thomas Jeba Valan (B.Tech)  
+**Email:** jebavalan5122@gmail.com
+**LinkedIn:** [linkedin.com/in/jebavalan](https://linkedin.com/in/jebavalan)
