@@ -29,8 +29,10 @@ This repository contains code and resources for building, training, and evaluati
 - Python 3.xxx  
 - Pandas, NumPy  
 - Scikit-learn  
-- XGBoost  
-- Matplotlib, Seaborn  
+- logistic regression
+- Matplotlib, Seaborn
+- streamlit
+- joblib  
 
 ---
 
